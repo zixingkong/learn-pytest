@@ -231,4 +231,8 @@ def docker_container():
 9. Safe 
    * Safe teardowns
    * Safe fixture structures
-
+10.Runnning multiple asserts statements safely
+11.Fixtures can introspect the requesting test context
+12.Using markers to pass data to fixtures
+13.Factories as fixtures
+14.Parametrizing fixtures

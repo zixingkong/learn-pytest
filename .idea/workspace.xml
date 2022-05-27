@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b11b487-9f0e-4ec0-8637-4d272dda5762" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Pytest学习文档01.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Pytest的特性.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/myinvoke.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_append.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_class_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_emaillib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_foocompare.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_sample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_sysexit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_tmp_path.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Pytest的特性.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/Pytest的特性.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +132,8 @@
       <workItem from="1652538094787" duration="772000" />
       <workItem from="1652672470065" duration="488000" />
       <workItem from="1652691870638" duration="680000" />
-      <workItem from="1652853562791" duration="8814000" />
+      <workItem from="1652853562791" duration="9972000" />
+      <workItem from="1653358585151" duration="1317000" />
     </task>
     <servers />
   </component>
@@ -161,6 +150,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/learn_pytest$confitest.coverage" NAME="confitest Coverage Results" MODIFIED="1652858003272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
